@@ -1,0 +1,7 @@
+1) ihm.py: ajout ecran_fin_de_jeu et redemarre_jeu, mais pas pris en compte dans le jeu
+2) jeu.py: prise en compte du clic souris pour sélectionner une case
+3) ajout des méthodes dans echiquier.py: determineLaCase, selectionneLaCase, deselectionneLaCase
+4) modif dessine() dans echiquier pour montrer les mouvements
+5) nouveau fichier regles.py à importer dans echiquier.py
+6) ajoute chercherTousLesDeplacements dans pion.py
+

@@ -1,0 +1,10 @@
+1) ajout d'un cadre autour de la case sélectionnée et couleurs différentes (bleu ou rouge) (dessine de case_echiquier.py)
+    CADRE_BLEU et CADRE_ROUGE
+2) prise en compte de la fin de jeu (boucle en fin de ihm:ecran_fin_de_jeu et fin de boucle dans jeu.py)
+3) pour tester les règles, on implémente le jeu de départ:
+    ajout de jeu_initial en fin de jeu.py
+    ajout du paramètre jeu_initial à l'appel de Echiquier
+    ajout d'un paramètre dans __init__ de echiquier
+    ajout du paramètre jeu_initial à l'appel de Echiquier
+4) déplacement du pion et prise en diagonale
+5) déplacement du fou

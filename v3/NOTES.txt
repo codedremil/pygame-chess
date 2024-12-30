@@ -1,0 +1,4 @@
+On ajoute le Joueur
+On ajoute des attributs dans l'échiquier
+On ajoute affiche_message_centre dans ihm
+

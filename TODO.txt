@@ -1,0 +1,6 @@
+TODO: mode "débutant" qui affiche les déplacements possibles
+TODO: choix du temps de la pendule
+TODO: possibilité de charger une partie pour analyse ou pour test
+TODO: possibilité de jeu en réseau
+TODO: implémenter une IA basique
+TODO: afficher le numéro du tour
